@@ -5,3 +5,9 @@
 layout: single
 author_profile: true
 ---
+
+I am graduate Student from University of Maryland College Park, currently pursuing **Masters in Business Analytics**. My professional interests are:
+- Project 1
+- Project 2
+- Project 3
+
