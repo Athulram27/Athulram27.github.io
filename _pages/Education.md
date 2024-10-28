@@ -3,7 +3,7 @@ permalink: /Education/
 title: "Education"
 ---
 
-![UMD logo](assets/images/UMD.png)
+![UMD logo](_pages/assets/images/UMD.png)
 #### Robert H school of Business
 #### Msc in Business Analystics
 #### **Core Subjects:** 
