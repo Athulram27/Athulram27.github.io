@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Athul Ramachandran
+title: Portfolio
 email: athul.rp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Athulram27"
     - label: "Tableau"
-      icon: "fab fa-fw fa-solid fa-chart-simple"
+      icon: "fab fa-fw fa-chart-simple"
       url: "https://public.tableau.com/app/profile/athul.ramachandran8113/vizzes"
 
 footer:
