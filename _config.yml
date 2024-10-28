@@ -72,17 +72,17 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Athulram27"
     - label: "Tableau"
-      icon: "fab fa-fw fa-tableau"
+      icon: "fab fa-fw fa-solid fa-chart-simple"
       url: "https://public.tableau.com/app/profile/athul.ramachandran8113/vizzes"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Athulram27"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
