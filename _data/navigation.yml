@@ -1,8 +1,8 @@
 main:
   - title: "Presentations"
     url: /Presentations/
-  - title: "Projects"
-    url: /categories/
+  - title: "Education"
+    url: /Education/
   - title: "Articles"
     url: /tags/
   - title: "About"
