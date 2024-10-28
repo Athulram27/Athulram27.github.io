@@ -6,6 +6,7 @@ layout: single
 author_profile: true
 ---
 
+## ABOUT
 I am a Master’s candidate in Business Analytics at the University of Maryland's Robert H. Smith School of Business, specializing in data analytics, predictive modeling, and optimization. My journey began in manufacturing as a Quality Assurance Lead, sparking a passion for data analytics that led me to roles in both manufacturing and IT over the past five years.
 
 With a Mechanical Engineering degree from Visvesvaraya National Institute of Technology and a strong interest in mechanics and automotive engineering, I am well-equipped to contribute effectively to data-driven strategy and optimization projects.
