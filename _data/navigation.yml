@@ -1,9 +1,7 @@
 main:
-  - title: "Presentations"
-    url: /Presentations/
   - title: "Education"
     url: /Education/
-  - title: "Articles"
-    url: /tags/
+  - title: "Experience"
+    url: /Experience/
   - title: "About"
     url: /about/
