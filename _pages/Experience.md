@@ -15,7 +15,7 @@ scheduling.
 </span>
  
 <img src="/assets/images/HEVO.png" alt="UMD logo" width="75" height="75">  **Hevo Data**<br>Business Intelligence Analyst 
-<span style="font-size:15px">May'22 to Jul'23</span>
+<span style="font-size:15px">May'22 to Jul'23</span>  
 --------------------------------------------------------------------------------------------------------  
 <span style="font-size:16px">
 • Led end-to-end projects focused on revenue improvement, analyzing customer over **2000+** feature usage and server 
@@ -31,7 +31,7 @@ Product improvements.
 
 
   <img src="/assets/images/Mrf-logo.JPG" alt="UMD logo" width="75" height="75">  **MRF LTD**<br>Data Analyst   
-<span style="font-size:16px">Jan'21 to May'22</span>
+<span style="font-size:16px">Jan'21 to May'22</span>  
 --------------------------------------------------------------------------------------------------------  
 <span style="font-size:15px">
 • Performed an **optimization analysis** on material movement, leading to a **26%** decrease in transportation costs by 
@@ -46,7 +46,7 @@ to enhance quality management systems.
 </span>
   
 <img src="/assets/images/STL.png" alt="UMD logo" width="75" height="75">  **Sterlite Tech**<br> Quality Assurance Lead  
-<span style="font-size:16px">Jul'18 to Dec'20</span>
+<span style="font-size:16px">Jul'18 to Dec'20</span>  
 --------------------------------------------------------------------------------------------------------  
 <span style="font-size:15px">
 • Generated result-oriented data models through **SQL using Tableau** dashboards that monitored **KPI’s** and provided 
