@@ -3,6 +3,8 @@ permalink: /Education/
 title: "Education"
 ---
 
+
+    
 <img src="/assets/images/UMD.png" alt="UMD logo" width="100" height="100">  **Robert H. Smith School of Business**<br>
 MSc in Business Analytics  
 Aug'23 to Dec'24  
