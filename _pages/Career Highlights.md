@@ -3,6 +3,7 @@ permalink: /Career Highlights/
 title: "Career Highlights"
 ---
 
+<span style="font-size:18px">
 **1) Feature pricing analysis for revenue enhancement**  
 •  Led revenue improvement project in collaboration with the product team, by analyzing 2000+ customers to identify 
 feature usage and associated price plans for revamping pricing strategy.  
@@ -52,3 +53,4 @@ reducing man dependency and increasing efficiency.
 • Documented the manufacturing process to create user-friendly Visual SOPs. 
 • Developed PFMEAs and control plans that serve as direct guides for identifying failure modes and improving 
 processes.
+<\span>
