@@ -15,7 +15,7 @@ scheduling.
 • Developed Automatic class room scheduler using **IBM CPLEX** which addresses faculty requirement 
 </span>
  <br><br>
-<img src="/assets/images/HEVO.png" alt="UMD logo" width="75" height="75">  **Hevo Data**<br>Business Intelligence Analyst 
+<img src="/assets/images/HEVO.png" alt="UMD logo" width="75" height="75">  **Hevo Data**<br>Business Intelligence Analyst  
 <span style="font-size:15px">May'22 to Jul'23</span>  
 --------------------------------------------------------------------------------------------------------  
 <span style="font-size:16px">
