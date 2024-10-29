@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 --- 
 <span style="font-size:18px">
-I am a Master’s candidate in Business Analytics at the University of Maryland, specializing in data analytics, predictive modeling, and optimization. My five-year journey from Quality Assurance Lead in manufacturing to IT and analytics has honed my ability to transform complex data into actionable insights that drive strategic decisions.
+My career has been shaped by curiosity and growth, transitioning from manufacturing to data analytics. Beginning as a Quality Assurance Lead, I discovered a passion for using data to drive improvements, ultimately leading me to pursue a Master’s in Business Analytics from the University of Maryland. Over five years, this journey has sharpened my ability to turn complex data into actionable insights that support strategic decision-making.
 </span>
 <br><br>
 <span style="font-size:18px">
