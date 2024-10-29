@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Athulram27"
     - label: "Tableau"
-      icon: "fab fa-fw fa-chart-simple"
+      icon: "fas fa-fw fa-chart-line"
       url: "https://public.tableau.com/app/profile/athul.ramachandran8113/vizzes"
 
 footer:
