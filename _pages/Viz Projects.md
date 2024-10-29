@@ -20,5 +20,5 @@ title: "Visualization Projects"
   This dynamic Tableau dashboard provides a comprehensive look into Qatar's Gross Domestic Product (GDP) and its key segments.
   
 - **Amazon Fashion Product Analysis Dashboard**<br><br>
-  <img src="/assets/images/Amazon.png.png" alt="UMD logo" width="700" height="400">  <br>
+  <img src="/assets/images/Amazon.png" alt="UMD logo" width="700" height="400">  <br>
   This interactive dashboard provides a detailed analysis of various fashion products on Amazon. Users can explore sales performance across different locations, track price drops, and analyze customer reviews. The visualizations help identify trends, high-performing products, and areas for improvement, offering valuable insights for strategic decision-making in the fashion segment.
