@@ -4,7 +4,7 @@ title: "Experience"
 ---
 
 <img src="/assets/images/UMD.png" alt="UMD logo" width="75" height="75">  **Robert H. Smith School of Business**<br>Research Intern  
-<span style="font-size:16px">May'24 to Jul'24</span></span>
+<span style="font-size:16px">May'24 to Jul'24</span>
 --------------------------------------------------------------------------------------------------------  
 <span style="font-size:15px">
 • Conducted **root cause analysis** to strategically improve scheduling processes, ensuring alignment with diverse 
