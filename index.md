@@ -5,12 +5,11 @@
 layout: single
 author_profile: true
 ---
+<br><br>
 
+I am a Master’s candidate in Business Analytics at the University of Maryland, specializing in data analytics, predictive modeling, and optimization. My five-year journey from Quality Assurance Lead in manufacturing to IT and analytics has honed my ability to transform complex data into actionable insights that drive strategic decisions.
 
-I am a Master’s candidate in Business Analytics at the University of Maryland's Robert H. Smith School of Business, specializing in data analytics, predictive modeling, and optimization. My journey began in manufacturing as a Quality Assurance Lead, sparking a passion for data analytics that led me to roles in both manufacturing and IT over the past five years.
-
-With a Mechanical Engineering degree from Visvesvaraya National Institute of Technology and a strong interest in mechanics and automotive engineering, I am well-equipped to contribute effectively to data-driven strategy and optimization projects.
-
+With a Mechanical Engineering degree, I bring a unique blend of technical expertise and business intelligence, enabling me to bridge analytics with operational needs. I'm equipped to make a meaningful impact on data-driven strategy and optimization projects.
 
 ## INTEREST AND INSPIRATIONS
 I’m passionate about hiking, long drives, indie and experimental music, and exploring global recipes in the kitchen. These activities fuel my creativity and bring a sense of adventure to my everyday life.
