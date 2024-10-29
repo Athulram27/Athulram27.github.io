@@ -6,7 +6,7 @@ title: "Experience"
 <img src="/assets/images/UMD.png" alt="UMD logo" width="75" height="75">  **Robert H. Smith School of Business**<br>Research Intern  
 *May'24 to Jul'24*
 --------------------------------------------------------------------------------------------------------  
-<span style="font-size:18px">
+<span style="font-size:14px">
 • Conducted **root cause analysis** to strategically improve scheduling processes, ensuring alignment with diverse 
 stakeholder needs.  
 • Extracted and manipulated data to develop tools providing key metrics for informed decision-making in academic 
@@ -17,7 +17,7 @@ scheduling.
 <img src="/assets/images/HEVO.png" alt="UMD logo" width="75" height="75">  **Hevo Data**<br>Business Intelligence Analyst 
 *May'22 to Jul'23*
 --------------------------------------------------------------------------------------------------------  
-<span style="font-size:18px">
+<span style="font-size:14px">
 • Led end-to-end projects focused on revenue improvement, analyzing customer over **2000+** feature usage and server 
 dependencies to refine **pricing strategies**.  
 • Utilized **Python and SQL** to conduct **churn analysis**, implementing solutions that increased customer retention by 
@@ -33,7 +33,7 @@ Product improvements.
   <img src="/assets/images/Mrf-logo.JPG" alt="UMD logo" width="75" height="75">  **MRF LTD**<br>Data Analyst   
 *Jan'21 to May'22*
 --------------------------------------------------------------------------------------------------------  
-<span style="font-size:18px">
+<span style="font-size:14px">
 • Performed an **optimization analysis** on material movement, leading to a **26%** decrease in transportation costs by 
 applying advanced data optimization techniques.  
 • Designed a **web-based vendor registration portal**, enhancing operational efficiency and reducing manual data entry. 
@@ -48,7 +48,7 @@ to enhance quality management systems.
 <img src="/assets/images/STL.png" alt="UMD logo" width="75" height="75">  **Sterlite Tech**<br> Quality Assurance Lead  
 *Jul'18 to Dec'20*
 --------------------------------------------------------------------------------------------------------  
-<span style="font-size:18px">
+<span style="font-size:14px">
 • Generated result-oriented data models through **SQL using Tableau** dashboards that monitored **KPI’s** and provided 
 strategic recommendations to solve business problems.  
 • Conducted EDA in **excel** using **pivot table and V/H lookup** to gather insights and influence business decisions  
