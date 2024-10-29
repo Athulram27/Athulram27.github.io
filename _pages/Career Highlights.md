@@ -52,4 +52,4 @@ reducing man dependency and increasing efficiency.<br>
 • Documented the manufacturing process to create user-friendly Visual SOPs.<br>
 • Developed PFMEAs and control plans that serve as direct guides for identifying failure modes and improving 
 processes.<br>
-<\span>
+</span>
