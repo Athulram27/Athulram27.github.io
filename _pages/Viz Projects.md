@@ -33,8 +33,8 @@ title: "Visualization Projects"
   This interactive dashboard provides a detailed analysis of various fashion products on Amazon. Users can explore sales performance across different locations, track price drops, and analyze customer reviews. The visualizations help identify trends, high-performing products, and areas for improvement, offering valuable insights for strategic decision-making in the fashion segment.
 </span>
  
-<span style="font-size:18px">
-Check out more doashboards here:   
+<span style="font-size:16px">
+Check out more doashboards here:  
 1) Tableau: https://public.tableau.com/app/profile/athul.ramachandran8113/vizzes  
 2) PowerBi: https://app.powerbi.com/datahub?experience=power-bi  
 </span>
