@@ -8,7 +8,7 @@ title: "Career Highlights"
 •  Led revenue improvement project in collaboration with the product team, by analyzing 2000+ customers to identify  
 feature usage and associated price plans for revamping pricing strategy.  
 • Identified customer segments by analyzing usage data and application of K-means clustering.  
- •  Increased existing client revenue by 10% by developing new pricing plans for the identified segments.  
+•  Increased existing client revenue by 10% by developing new pricing plans for the identified segments.  
 
 <H3>2) Migration of Database and Schema design</H3>  
 • Led the migration of complex databases from AWS to Google BigQuery, optimizing schema design for improved query  
