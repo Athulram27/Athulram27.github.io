@@ -14,7 +14,7 @@ stakeholder needs.
 scheduling.  
 • Developed Automatic class room scheduler using **IBM CPLEX** which addresses faculty requirement 
 </span>
- 
+ <br><br>
 <img src="/assets/images/HEVO.png" alt="UMD logo" width="75" height="75">  **Hevo Data**<br>Business Intelligence Analyst 
 <span style="font-size:15px">May'22 to Jul'23</span>  
 --------------------------------------------------------------------------------------------------------  
@@ -29,7 +29,7 @@ insights for process improvement.
 management.  
 • Collaborated with **cross-functional teams** to address operational challenges by running **A/B tests** to enhance 
 Product improvements.  
-
+ <br><br>
 
   <img src="/assets/images/Mrf-logo.JPG" alt="UMD logo" width="75" height="75">  **MRF LTD**<br>Data Analyst   
 <span style="font-size:16px">Jan'21 to May'22</span>  
@@ -45,7 +45,8 @@ project completion and **integration**.
 • Engaged in **continuous process improvement** initiatives, utilizing **Six Sigma methodologies** and data-driven insights 
 to enhance quality management systems.  
 </span>
-  
+ <br><br>  
+ 
 <img src="/assets/images/STL.png" alt="UMD logo" width="75" height="75">  **Sterlite Tech**<br> Quality Assurance Lead  
 <span style="font-size:16px">Jul'18 to Dec'20</span>  
 --------------------------------------------------------------------------------------------------------  
