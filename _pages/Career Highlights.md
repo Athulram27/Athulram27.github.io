@@ -2,7 +2,7 @@
 permalink: /Career Highlights/
 title: "Career Highlights"
 ---
-
+<br>
 <span style="font-size:14px">
 <H4>1) Feature pricing analysis for revenue enhancement</H4>  
 •  Led revenue improvement project in collaboration with the product team, by analyzing 2000+ customers to identify<br>
