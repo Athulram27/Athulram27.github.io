@@ -62,8 +62,8 @@ author:
   avatar : "/assets/images/Athul.jpg"
   bio    : "Highly driven Analyst with demonstrated history of working with manufacturing industry, process analytics and statistics."
   links:
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
+    - label: "Maryland, USA"
+      icon: "fas fa-location-dot"
     #  url: "https://"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin-in"
