@@ -1,5 +1,5 @@
 ---
-permalink: /Visualization Projects/
+permalink: /Viz Projects/
 title: "Visualization Projects"
 ---
 
