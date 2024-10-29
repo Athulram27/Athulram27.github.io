@@ -4,7 +4,7 @@ title: "Career Highlights"
 ---
 
 <span style="font-size:15px">
-### 1) Feature pricing analysis for revenue enhancement  
+<H4>1) Feature pricing analysis for revenue enhancement</H4>  
 •  Led revenue improvement project in collaboration with the product team, by analyzing 2000+ customers to identify 
 feature usage and associated price plans for revamping pricing strategy.  
 • Identified customer segments by analyzing usage data and application of K-means clustering.  
