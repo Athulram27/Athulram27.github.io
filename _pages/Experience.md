@@ -27,7 +27,7 @@ insights for process improvement.
 • Created process **flow diagrams** to visualize and **streamline** operations, leading to increased efficiency in customer 
 management.  
 • Collaborated with **cross-functional teams** to address operational challenges by running **A/B tests** to enhance 
-Product improvements.  
+Product improvements.
  <br><br>
   <img src="/assets/images/Mrf-logo.JPG" alt="UMD logo" width="75" height="75">  **MRF LTD**<br>Data Analyst 
 <span style="font-size:16px">(Jan 21 to May 22)</span>  
@@ -41,7 +41,7 @@ procurement metrics, resulting in a **5% reduction in OPEX costs**.
 • **Collaborated** with project managers and operations teams to deploy new tools and systems, ensuring successful 
 project completion and **integration**.  
 • Engaged in **continuous process improvement** initiatives, utilizing **Six Sigma methodologies** and data-driven insights 
-to enhance quality management systems.  
+to enhance quality management systems.
 </span>
  <br><br>  
 <img src="/assets/images/STL.png" alt="UMD logo" width="75" height="75">  **Sterlite Tech**<br> Quality Assurance Lead 
