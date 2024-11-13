@@ -35,7 +35,7 @@ title: "Visualization Projects"
  
 <span style="font-size:16px">
 Check out more doashboards here:  
-1) Tableau: https://public.tableau.com/app/profile/athul.ramachandran8113/vizzes  
-2) PowerBi: https://app.powerbi.com/datahub?experience=power-bi  
+1) [Tableau](https://public.tableau.com/app/profile/athul.ramachandran8113/vizzes)  
+2) [PowerBi](https://app.powerbi.com/datahub?experience=power-bi)  
 </span>
 
